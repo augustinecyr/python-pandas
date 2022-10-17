@@ -7,3 +7,4 @@ Basics of Data Analysis using Pandas
 - Groupby
 - Concatenation & Merging
 - Operations
+- Data Input and Output

@@ -6,3 +6,4 @@ Basics of Data Analysis using Pandas
 - Missing Data
 - Groupby
 - Concatenation & Merging
+- Operations

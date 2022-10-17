@@ -1,5 +1,5 @@
 ## Introduction to Python
-### Using Pandas - DataFrames
+### Using Pandas
 
 Basics of Data Analysis using Pandas
 - Dataframes
